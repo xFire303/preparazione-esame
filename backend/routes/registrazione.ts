@@ -6,7 +6,7 @@ const router = new Router({
     prefix: "/registrazione"
 });
 
-/* SECONDA TASK */
+/* PRIMA TASK */
 
 export default router;
 
