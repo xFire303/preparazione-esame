@@ -8,13 +8,13 @@ Questo progetto è stato sviluppato per prepararsi all'esame, concentrandosi sul
 
 Sono stati individuati tre task principali da completare:
 
-### 1. Sistemare l'API per la visualizzazione degli utenti
-
-- **Obiettivo:** Garantire che l'API che consente di visualizzare gli utenti registrati funzioni correttamente.
-
-### 2. Sistemare l'API per la registrazione degli utenti
+### 1. Sistemare l'API per la registrazione degli utenti
 
 - **Obiettivo:** Garantire che l'API per la registrazione degli utenti funzioni correttamente.
+
+### 2. Sistemare l'API per la visualizzazione degli utenti
+
+- **Obiettivo:** Garantire che l'API che consente di visualizzare gli utenti registrati funzioni correttamente.
 
 ### 3. Implementare l'API per la rimozione di un utente
 
